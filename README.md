@@ -1,6 +1,6 @@
 # RNASeq_in_Python
 
-![image1.png](https://github.com/CostaLab/RNASeq_in_Python/tree/main/img)
+![image1.png](https://github.com/CostaLab/RNASeq_in_Python/tree/main/img/image1.png)
 
 *By: Msc. James S. Nagai,  Msc. Tiago Maié,  Steffen Koschmieder and Ivan G. Costa*
 
